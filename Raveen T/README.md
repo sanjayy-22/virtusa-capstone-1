@@ -147,6 +147,8 @@ node FetchUserData.js
 
 Through this programming assignment, I gained practical experience in Java, JavaScript, and TypeScript. These tasks helped me strengthen my understanding of programming fundamentals, improve my problem-solving abilities, and gain hands-on experience with different programming concepts.
 
+All nine programming tasks have been completed and organized into their respective language folders.
+
 ---
 
 **Submitted by:** Raveen T  
